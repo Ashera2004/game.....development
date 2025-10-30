@@ -65,3 +65,11 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+
+
+https://github.com/user-attachments/assets/3640dd98-71c2-4f1d-a1dd-a6a3ae55ad7d
+
+# RESULT
+
+Thus the animation was done using flash and the output was verified.
